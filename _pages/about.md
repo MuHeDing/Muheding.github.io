@@ -39,10 +39,28 @@ Education
             <img border="0" src="https://haokunwen.github.io/images/SDU-LOGO.png" align="right" width="120" height="54">
           </a>     
   </div>  
+
+Publications
+---
+  **2025**     
+  - **RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training**      
+    **Muhe Ding**, Yang Ma, Pengda Qin, Jianlong Wu, Yuhong Li, Liqiang Nie.    
+    IEEE Transactions on Multimedia 2025. [[Paper]](https://arxiv.org/abs/2410.14154)    
+  - **Preview-based Category Contrastive Learning for Knowledge Distillation**     
+    **Muhe Ding**, Jianlong Wu, Xue Dong, Xiaojie Li, Pengda Qin, Tian Gan, Liqiang Nie.   
+    IEEE Transactions on Circuits and Systems for Video Technology 2025. [[Paper]](https://arxiv.org/abs/2410.14143)    
   
 - **Shandong University** Sep.2017 — Jun.2021    
   Bachelor in the School of Computer Science and Technology
-  
+
+  Services
+
+Services
+---
+  **Conference Reviewer**  
+  - ICML 2025    
+  - ICLR 2026    
+
 
 
 

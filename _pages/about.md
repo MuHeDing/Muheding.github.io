@@ -53,8 +53,6 @@ Publications
 - **Shandong University** Sep.2017 — Jun.2021    
   Bachelor in the School of Computer Science and Technology
 
-  Services
-
 Services
 ---
   **Conference Reviewer**  
